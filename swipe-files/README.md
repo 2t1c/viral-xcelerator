@@ -1,11 +1,17 @@
 # Swipe Files
 
-Proven hooks and viral phrases. Keep adding hooks that stop *you* mid-scroll; tag each by structure and why it worked.
+Proven hooks, phrases, and patterns. Bracket the negotiables, keep the non-negotiables, adapt your story in.
 
-**Viral phrases** (repeat on purpose — they resonate):
-- *Once you see it, you can't unsee it.*
-- *How X did this was wild.*
-- *I spent X hours…*
-- *The greatest / strangest / worst X in Y history.*
+## In this folder
 
-🟡 Full swipe file (Premium Business Threads Swipe) lives in Notion — export pending.
+- `viral-phrases.md` — proven lines and power keywords, organized by use case.
+
+## The master example source
+
+The canonical example library is the internal **Viral Thread Database on Airtable** (~2,000 verified viral threads with stats). It stays private and is NOT mirrored in this repo. Ask Toan for access.
+
+When using it: ignore single tweets and accidental quote junk records.
+
+## How to grow your swipe file
+
+When a hook stops your scroll, save it. Bracket the information, identify the structure, categorize by use case. Over time you stop writing hooks from scratch and start assembling them from proven parts.
