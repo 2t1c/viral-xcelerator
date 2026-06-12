@@ -5,6 +5,9 @@ Proven hooks, phrases, and patterns. Bracket the negotiables, keep the non-negot
 ## In this folder
 
 - `viral-phrases.md` — proven lines and power keywords, organized by use case.
+- `viral-thread-examples.md` — 32 curated hooks, each above 5M views, verbatim with full stats and structural notes.
+- `hook-pattern-library.md` — 12 reusable templates with formula, real example, use case, and failure mode.
+- `power-words-and-metrics.md` — quantified power words, hook anatomy stats, and the save-rate vs view-rate split.
 
 ## The master example source
 
