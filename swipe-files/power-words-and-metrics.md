@@ -4,7 +4,7 @@
 
 **Sample:** The 32 curated hooks in [viral-thread-examples.md](./viral-thread-examples.md), each above 5M views, plus a broader scan of 100+ thread openers that each cleared 1M views. Counts below are from the curated 32 unless noted.
 
-For the structural templates, see [hook-pattern-library.md](./hook-pattern-library.md).
+For the structural templates, see [hook-pattern-library.md](./hook-pattern-library.md). For dataset-wide percentile benchmarks across all 2,905 verified viral threads (CTR, retention, thread length, hook length, niche performance), see [benchmark-evidence.md](../02-thread-masterclass/benchmark-evidence.md).
 
 ---
 

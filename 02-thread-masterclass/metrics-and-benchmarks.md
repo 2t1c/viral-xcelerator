@@ -1,5 +1,7 @@
 # Metrics & Benchmarks
 
+For percentile-graded benchmarks computed from 2,905 verified viral threads (CTR, retention, engagement, thread length, hook length, niche splits), see [benchmark-evidence.md](benchmark-evidence.md).
+
 ## View benchmarks (current algorithm)
 
 - **Insane:** over 500k
