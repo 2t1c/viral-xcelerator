@@ -1,8 +1,8 @@
 # Viral Xcelerator — Promotional Doc (Rewrite)
 
-> Restructured version of the invite doc. Adds the digital-products door, features the deliverables that scale (AI coach, distribution network, marketplace, tools), and adds a value stack, a qualifier, an FAQ, and a results disclaimer.
+> Restructured invite doc. Community is Skool (single platform, no contradictions). Brand is Viral Xcelerator (VX). The method is the Genius Thread™ / Genius Thread Formula™. Adds the digital-products door, a full value-stack listicle, an expanded deliverables list, a qualifier, an FAQ, and a results disclaimer.
 >
-> Items in HTML comments need your confirmation before publishing (platform name, current dates/slots, exact links, and any figures you want to stand behind).
+> Items in HTML comments need your links or a figure before publishing.
 
 ---
 
@@ -12,11 +12,11 @@
 
 *Works in every niche: business, finance, crypto, health, psychology, and more.*
 
-<!-- Update before sending: --> *(Limited seats this cohort. Last updated: [DATE].)*
+*Invite-only. Limited seats per cohort. Last updated: July 2026.*
 
 You have talent and ambition, and your content is already performing. But turning that into a scalable income on X, without working 100 hours a week, still feels out of reach.
 
-There are many paths for a creator, founder, or ghostwriter. The highest leverage one right now is mastering viral X threads.
+There are many paths for a creator, founder, or ghostwriter. The highest leverage one in 2026 is mastering viral X threads.
 
 500,000 views. 1,000,000. 10,000,000.
 
@@ -25,7 +25,7 @@ Here is the logic (illustrative, not a promise):
 - At a 2% click-through, that is about 600 clicks on an offer.
 - At a conservative 2% conversion, a client can earn several thousand dollars from one thread.
 
-If a client makes $2,000-$5,000 from one thread, would they pay you $300, $500, or $1,000 to write it? A viral thread is a win for both of you. And once you are fluent, a thread takes only a few hours to make.
+If a client makes $2,000-$5,000 from one thread, would they pay you $300, $500, or $1,000 to write it? A viral Genius Thread™ is a win for both of you. And once you are fluent, a thread takes only a few hours to make.
 
 But you still have doubts:
 - "I don't know how to get a thread viral to build credibility."
@@ -58,7 +58,7 @@ Most programs sell you one path. The thread-writing craft is the same either way
 - Lead with a free product, build an email list, and upsell from there.
 - Best if you would rather own your audience than serve clients.
 
-Some students pick one. Many run both. The skill you learn feeds both doors at once.
+Some students pick one. Many run both. The Genius Thread™ skill feeds both doors at once.
 
 ---
 
@@ -66,7 +66,7 @@ Some students pick one. Many run both. The skill you learn feeds both doors at o
 
 Brought to you by Toan Truong, the writer behind Genius Thinking (GeniusGTX) and ghostwriter for creators with a combined 1.4M+ followers.
 
-Over the last 12 months, Toan has driven 800M+ impressions and 300,000+ followers across his pages and for clients using the Genius Thread method.
+Over the last 12 months, Toan has driven 800M+ impressions and 300,000+ followers across his pages and for clients using the Genius Thread™ method.
 
 Portfolio (a few client threads, limited by NDA): <!-- insert current portfolio link -->
 
@@ -74,33 +74,50 @@ Portfolio (a few client threads, limited by NDA): <!-- insert current portfolio 
 
 ## What's inside
 
-### I. Master viral content creation
-- The Genius Thread Formula for the science behind million-view threads.
-- Weekly group hot-seat calls: submit your work, get it torn down live, and learn from every other teardown too.
-- **A 24/7 AI Coach** trained on the full curriculum. Add the course to your chat and get your hooks graded and your drafts sharpened any time, no call required.
-- Advanced analytical reading to refine your writing for engagement.
+Everything lives in one place: our **Skool community**. Course lessons, calls, tools, marketplace, and the vault are all there.
 
-### II. Distribution that no one else can give you
+### I. Master viral content creation
+- **The Genius Thread Formula™**: the science behind million-view threads.
+- **Viral Thread in a Box**: the end-to-end SOP that takes you from raw idea to finished thread in about 90 minutes.
+- **The hook system**: prime real estate, power words, open loops, and inner-CTAs, with proven hook templates.
+- **Proven tweet structures**: the three outline skeletons behind our biggest threads.
+- **The Media Finding Playbook**: how to source scroll-stopping visuals fast.
+- **Metrics, benchmarks, and viral intuition**: read the data instead of guessing.
+- **Weekly hot-seat calls** on Skool: submit your work, get it torn down live, and learn from every other teardown too.
+- **A 24/7 AI Coach** trained on the full curriculum. Add the course to your chat and get your hooks graded and drafts sharpened any time, no call required.
+
+### II. Distribution no one else can give you
 - **Thread boosts through the Genius Network (2.4M+ followers)** so your practice content gets real visibility, not silence.
+- **The QRT and retweet strategy** we use to engineer reach on demand.
 - Toan operates one of the top boosting networks for founders on X.
 
 ### III. Build your portfolio and land clients
-- Thread and Opportunity Marketplace: paid gigs from agencies and founders who need writers.
-- Real-world thread simulation: write for the Genius Accounts and get paid while building case studies.
-- Client acquisition templates to land your first contracts.
+- **Thread and Opportunity Marketplace**: paid gigs from agencies and founders who need writers.
+- **Real-world thread simulation**: write for the Genius Accounts and get paid while building case studies.
+- **Client acquisition templates**, lead-gen thread examples, lead-qualifying checklists, and the CLOSER sales-call framework.
+- **Portfolio builder**: turn your best work into proof that closes clients.
 
 ### IV. Your monetization toolkit
-- The full digital-products build system (find demand, build with AI in ~30 minutes, launch on Gumroad, write the CTA).
-- AI Ghostwriting Agent: the real process and prompts working ghostwriters use.
-- AI Client Matching and AI Hook Generator.
-- Pricing, contract, and client-management templates to scale without burnout.
+- **The digital-products build system**: find demand, build with AI in about 30 minutes, launch on Gumroad, and write the CTA that converts.
+- **AI Ghostwriting Agent**: the real process and prompts working ghostwriters use.
+- **AI Client Matching** and **AI Hook Generator**.
+- **Pricing, contract, and client brief templates** so every engagement is priced for profit (RTs included).
 
-### V. The vault
+### V. Systems to scale without burnout
+- **The Genius Thread Workspace**: the Idea Bank plus Kanban production board used to run up to 100 threads a month with a small team.
+- **The Content Machine**: formats, swipe files, and batching so output stops depending on willpower.
+- **The Repurposing System**: get many posts from one thread, with the 3-strike rule.
+- **The hiring and agency path** when you are ready for a team.
+
+### VI. The vault (grows over time)
 - Swipe files of proven hooks and viral phrases.
 - The consolidated prompt library.
-- The "Viral Thread in a Box" SOP and the full glossary of frameworks.
+- The full glossary of frameworks (Rule of One, What-Why-How, risk-o-meter, the 85-90% rule, and more).
+- The tool cheatsheet and budget tiers, from $0 upward.
 
-<!-- Resolve the platform contradiction from the old doc: pick ONE community home (Skool, Discord, or Kajabi) and state it once here. -->
+### VII. Community and support
+- The Skool community for accountability, feedback, and networking with ghostwriters and creators.
+- Direct access to experienced writers earning $10k-30k/mo. <!-- keep only if accurate -->
 
 ---
 
@@ -134,14 +151,20 @@ Portfolio (a few client threads, limited by NDA): <!-- insert current portfolio 
 
 ## The value stack
 
-<!-- Adjust the standalone values to numbers you're comfortable defending. -->
-- Genius Thread Formula and full curriculum
-- Distribution through the 2.4M+ Genius Network
-- 24/7 AI Coach + AI ghostwriting toolkit
-- Thread and Opportunity Marketplace (lifetime access)
-- Weekly hot-seat calls and community
-- Digital-products build system
-- Lifetime updates
+Here is everything you get with lifetime access:
+
+1. **The Genius Thread Formula™ and full curriculum** (both monetization doors) — <!-- $X -->
+2. **Viral Thread in a Box SOP + hook system + tweet structures** — <!-- $X -->
+3. **Distribution through the 2.4M+ Genius Network** — <!-- $X -->
+4. **24/7 AI Coach trained on the curriculum** — <!-- $X -->
+5. **AI toolkit: Ghostwriting Agent, Client Matching, Hook Generator** — <!-- $X -->
+6. **Thread and Opportunity Marketplace (lifetime access)** — <!-- $X -->
+7. **Weekly hot-seat calls and the Skool community** — <!-- $X -->
+8. **The digital-products build system** — <!-- $X -->
+9. **The Genius Thread Workspace, Content Machine, and Repurposing System** — <!-- $X -->
+10. **Pricing, contract, and client-management templates** — <!-- $X -->
+11. **The vault: swipe files, prompt library, and glossary** — <!-- $X -->
+12. **Lifetime updates to everything above** — <!-- $X -->
 
 **Total value: [$X].  Your investment today: $2,000.**
 
@@ -154,13 +177,6 @@ Ghostwriters in VX routinely charge $300-$700+ per thread and run $2,000-$5,000/
 **Lifetime access: a flat $2,000.**
 
 *Payment plans available up to 3 terms with a 10% fee.*
-
-Included:
-- Complete viral writing training (both monetization doors)
-- All AI ghostwriting and product tools
-- Weekly hot-seat feedback and community
-- Portfolio and paid writing opportunities
-- Lifetime access to the client marketplace and all future updates
 
 We are invite-only. If you received this doc, you already met our bar. Because this is high-ticket with lifetime access, we do not offer refunds.
 
@@ -189,7 +205,9 @@ And many more inside the community.
 
 **Ghostwriting or my own products, which should I pick?** Either. Start with whichever fits your goal. The skill is the same and you can switch or run both.
 
-**What if I get stuck between calls?** That is what the 24/7 AI Coach and the community are for. You are never waiting a week for an answer.
+**What if I get stuck between calls?** That is what the 24/7 AI Coach and the Skool community are for. You are never waiting a week for an answer.
+
+**Where does everything live?** One Skool community: lessons, calls, tools, marketplace, and the vault.
 
 ---
 
@@ -197,6 +215,6 @@ And many more inside the community.
 
 1. DM "I'm in" to Toan on X. <!-- link -->
 2. We run a quick background check for fit.
-3. We onboard you to the community and you start today.
+3. We onboard you to the Skool community and you start today.
 
 Questions? Reach Toan on Telegram. <!-- link -->
