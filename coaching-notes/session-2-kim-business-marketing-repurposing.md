@@ -3,7 +3,7 @@
 ## Posting time & consistency
 - The right *window* beats the exact time. Most consumption is wake-up → lunch. US/East Coast (EST): ~7am–1pm their time.
 - Retweet network factor: most boosting vendors are in India/Pakistan — posting past midnight your time means they're asleep and the post misses its boost ~12 hrs.
-- Practical window: 7–11pm Vietnam (8pm–12am Philippines). 1–2 hrs off is fine. Align demographic with Timothy/Nikolai.
+- Practical window: 7–11pm Vietnam (8pm–12am Philippines). 1–2 hrs off is fine. Align demographic with your team.
 
 ## Repurposing old content
 - No fixed rule. Rough guide: >7 days okay, >14 days safer. Same-day reposts perform independently; audiences rarely notice.

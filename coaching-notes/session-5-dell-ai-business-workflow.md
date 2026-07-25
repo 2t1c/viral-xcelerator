@@ -1,10 +1,10 @@
 # Session 5 — Dell (AI + Business Accounts): Workflow & Idea Sourcing
 
-**Context:** Dell runs the AI and Business accounts (repurposed to LinkedIn + Threads, no IG). 3 posts/day per account (~6 total): one video, one long-form/thread (interchangeable — Timothy isn't strict on which), one transcript post. Long-form/thread/transcript took ~4–5 hrs each (now ~half). Everything managed in Typefully only — no Notion board, which is fine at this volume since PM admin would eat time.
+**Context:** Dell runs the AI and Business accounts (repurposed to LinkedIn + Threads, no IG). 3 posts/day per account (~6 total): one video, one long-form/thread (interchangeable — the team isn't strict on which), one transcript post. Long-form/thread/transcript took ~4–5 hrs each (now ~half). Everything managed in Typefully only — no Notion board, which is fine at this volume since PM admin would eat time.
 
 ## Current workflow (observed)
 - **Research:** Starts on IG/X for visual references (monitored creator list), picks ideas subjectively/by intuition, runs them through Perplexity to simplify technical info and pull accurate figures (esp. AI, which Dell finds harder to grasp). Understanding the topic first is non-negotiable before writing.
-- **Writing:** Account-specific Claude prompts (set by Tim/Nico for tonality). Pastes *everything* from Perplexity in. Built her own personalized prompt because Claude doesn't follow instructions first time — used to fix it section by section (a big reason for the 5-hr times). Reminds it of seamless transitions, kills choppy short sentences. Iterates, checks accuracy (paraphrasing drifts from sources), checks char count.
+- **Writing:** Account-specific Claude prompts (set by the team for tonality). Pastes *everything* from Perplexity in. Built her own personalized prompt because Claude doesn't follow instructions first time — used to fix it section by section (a big reason for the 5-hr times). Reminds it of seamless transitions, kills choppy short sentences. Iterates, checks accuracy (paraphrasing drifts from sources), checks char count.
 - **Hooks:** Runs a hooks prompt, sometimes pre-specifies the angle. Lots of back-and-forth.
 - **Media:** Done last. ~30–45 min (gettable to 10–15). Falls back to Canva or ChatGPT generation when nothing's available.
 
@@ -23,7 +23,7 @@ Media is **not** the bottleneck. The real time sinks are **research + the writin
 
 ## AI-account specific
 - Continue research/study-based posts (Stanford/MIT), leverage viral phrases, breaking-news, listicle formats.
-- **Study the Indian AI creators** — mediocre content, but they grow fast and land AI-brand partnerships by serving an AI-network audience. Reverse-engineer it. The AI page could be Timothy's most profitable account (partnership upside).
+- **Study the Indian AI creators** — mediocre content, but they grow fast and land AI-brand partnerships by serving an AI-network audience. Reverse-engineer it. The AI page could be the most profitable account (partnership upside).
 - **Quote-retweet:** the process to make a QRT *is* the process to write a long-form post — write it, paste the link, it becomes a QRT. Borrows distribution, looks natural.
 - **DM-on-comment tactic:** Typefully can auto-DM anyone who comments a keyword (optionally requiring a retweet first) — pushes the post wider while the CTA sits lower so it reads organically.
 - Most performing AI posts have a low bar to replicate (often just a prompt + a Claude screenshot).

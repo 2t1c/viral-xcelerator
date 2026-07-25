@@ -12,7 +12,7 @@
 Beyond story threads, do **idea/concept threads** — most ghostwriters won't, so it separates you. The big idea is one sentence (e.g. "water is the next monopoly for Wall Street"); everything else agitates and proves it matters. Works for AI, finance, even socio-political/economic angles (2026 recession, China–US) — gives the page a *position*, not just information.
 
 ## Build your own swipe file
-Provided hooks are a starting set — when you find a good adaptable one, add it, bracket it, adapt your story to it. Build a categorized library (by use case), pin it in Typefully. Use Tim's AI prompts for research/inspiration, not as the core — the foundation is your proven-structure library.
+Provided hooks are a starting set — when you find a good adaptable one, add it, bracket it, adapt your story to it. Build a categorized library (by use case), pin it in Typefully. Use the team's AI prompts for research/inspiration, not as the core — the foundation is your proven-structure library.
 
 ## The high-level skill: fluent recall
 Reading a new post, instantly recall past proven structures on the same theme, then borrow a proven first line. Search X for the known term/phrase to surface them. One proven line lowers risk and can make all the performance difference.
