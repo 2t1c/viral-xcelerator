@@ -18,7 +18,7 @@
 - More media ≠ better; too much can hurt. Cut media to keep people reading to the end.
 
 ## Thread-vs-long-form economics
-3× the time on a thread doesn't reliably get 3× views — it's topic-dependent. If long-form gets the impressions, lean into it (offered to ask Timothy to cut thread volume → focus long-form, later articles).
+3× the time on a thread doesn't reliably get 3× views — it's topic-dependent. If long-form gets the impressions, lean into it (offered to ask the team to cut thread volume → focus long-form, later articles).
 
 ## Repurposing mindset
 A flop the first time isn't the last time. Each iteration, diagnose *why* it underperformed and fix one lever (format, hook, thumbnail). Every winner = a reusable asset.
@@ -30,7 +30,7 @@ Topics from YouTube (shorts for daily; longer for threads/long-form). Transcript
 Some figures reliably go viral (Orwell/Huxley, Alan Watts, Jung). Pair two in one post to double the chance + pull two audiences.
 
 ## Branding & engagement
-Premium = restrained color, premium fonts, minimalist, contrast. The content you make dictates the audience you attract — write for one avatar. Reply to comments (clear with Timothy/Nikolai) to add a human factor + spark conversation. X search + Media tab for ideas and media.
+Premium = restrained color, premium fonts, minimalist, contrast. The content you make dictates the audience you attract — write for one avatar. Reply to comments (clear with your team) to add a human factor + spark conversation. X search + Media tab for ideas and media.
 
 ## Articles
 Offered to let her try X articles (formatting features) — her blog background can shine; the "in-between" of threads and long-form.
